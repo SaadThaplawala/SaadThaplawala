@@ -41,10 +41,11 @@
 - AI Snake game using Evolutionary Algorithms and PSO
 - FFT implemented in scalar and vectorized assembly coding
 - Product Building and lifecycle implementation of KaamKrao app (see on post on Medium)
-- Power BI report with multiple dashboards analysing Healthcare Dataset.
+- Power BI report with multiple dashboards analysing Healthcare Dataset
 - Single cycle Risc-V Verilog code with custom instructions handling
-- LFR built with logic and connections with gates and ICs.
+- LFR built with logic and connections with gates and ICs
 - LFR built with Arduino uno and Arduino coding
+- Implementation of 8-bit cpu on Logism
 - A restaurant recommendation system using linked lists in C++  
 - A telephone network simulation using graphs and modified Dijkstra's algorithm
 
