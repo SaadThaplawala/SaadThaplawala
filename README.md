@@ -1,55 +1,72 @@
 # 💫 About Me:
-👋 Hey there! I’m a Computer Science student with a passion for building real-world solutions — especially in dynamic cities like Karachi.  
+👋 Hey there! I’m a Computer Science student driven by a mission to build real-world tech solutions — especially for fast-paced, chaotic cities like Karachi.  
 
-🔍 I'm currently focused on landing a meaningful tech internship by refining my resume, polishing my GitHub and LinkedIn, reaching out to professionals, and mapping out top software/tech companies in Karachi. It’s all part of leveling up my learning, networking, and future-readiness.  
+🔍 I’m actively refining my resume, polishing my GitHub and LinkedIn, and mapping out top tech companies in Karachi — all while hunting for a great internship that challenges and grows me.  
 
-🤝 I’m open to collaborating on hands-on projects or roles — especially in **project or product management** — where I can contribute meaningfully and grow through real-world exposure.  
+🤝 I’m looking to collaborate on hands-on projects, especially in **project or product management** roles where I can learn, lead, and contribute meaningfully.
 
-🎯 Right now, I’m working on staying disciplined and focused as I prepare for my final year at university, aiming to become a stronger learner, teammate, and future-ready computer scientist.  
+🎯 As I prep for my final year at university, I’m focused on staying disciplined, sharpening my skills, and shaping my path as a future-ready computer scientist.
 
-💬 **Ask me about**: life at IBA, calisthenics, popular anime, games I’ve played (or coded), or what it's really like hustling in Karachi’s tech scene.  
+💬 **Ask me about:** life at IBA, calisthenics workouts, anime like *Attack on Titan*, games I’ve played (or coded), or the hustle of Karachi’s tech scene.
 
-🎉 **Fun fact**: You’re more likely to get into a fender bender in Karachi traffic than name a sport I haven’t played or don’t know well. From cricket and calisthenics to boxing and basketball — I’ve probably already been in the game! 🏏🥋⚽🏀🚦  
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-thaplawala-4a5713291/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saadbasit841)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadbasit841@gmail.com)  
+🎉 **Fun fact:** You're more likely to get into a fender bender in Karachi traffic than name a sport I haven’t played or don’t know well. From cricket and calisthenics to boxing and basketball — I’ve probably already been in the game! 🏏🥋⚽🏀🚦
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-thaplawala-4a5713291/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saadbasit841)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadbasit841@gmail.com)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaadThaplawala&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=SaadThaplawala&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadThaplawala&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✨ Highlight Section:
+📌 **University Build Projects:**  
+- Optimized Carpool webapp built specifically for university students
+- AI Snake game using Evolutionary Algorithms and PSO
+- FFT implemented in scalar and vectorized assembly coding
+- Product Building and lifecycle implementation of KaamKrao app (see on post on Medium)
+- Power BI report with multiple dashboards analysing Healthcare Dataset.
+- Single cycle Risc-V Verilog code with custom instructions handling
+- LFR built with logic and connections with gates and ICs.
+- LFR built with Arduino uno and Arduino coding
+- A restaurant recommendation system using linked lists in C++  
+- A telephone network simulation using graphs and modified Dijkstra's algorithm
+
+📌 **Academic Focus:**  
+- Software Engineering, Machine Learning, Database Systems  
+- Recent deep dives into RISC-V, Technological Product Dev and Power BI
+
+📌 **Creative Corner:**  
+- Blog writing on Medium  
+- Designing app flows & pitches for community-based platforms like campus carpooling
+- Designing app flows & pitches for renting labour workforce in a city like Karachi
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SaadThaplawala&icon=2&color=0)](https://visitcount.itsvg.in)
+## 🧠 Quote that Drives Me:
+> "Discipline equals freedom." – Jocko Willink  
+> *Every commit, every keystroke, every rep — it’s all part of building the future.*
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/SaadThaplawala/count.svg" alt="Visitor's Count" />
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SaadThaplawala/count.svg" alt="Visitor Count" />
 </div>
+
+<!-- Designed with passion & purpose -->
