@@ -57,6 +57,8 @@
 - Blog writing on Medium  
 - Designing app flows & pitches for community-based platforms like campus carpooling
 - Designing app flows & pitches for renting labour workforce in a city like Karachi
+- Studied Branding, Customer Targeting and Social Media Marketing
+- Successfully message delivered through ads for 2 different Brands
 
 ---
 
