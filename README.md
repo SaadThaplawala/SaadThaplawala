@@ -59,6 +59,8 @@
 - Designing app flows & pitches for renting labour workforce in a city like Karachi
 - Studied Branding, Customer Targeting and Social Media Marketing
 - Successfully message delivered through ads for 2 different Brands
+- Identified honesty, hardwork and trustworthyness of a person through a table top game which I made ![(https://www.canva.com/design/DAGdUkMf4nM/dUerNrXHDkxP7fpIBBbdrQ/edit?utm_content=DAGdUkMf4nM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+
 
 ---
 
