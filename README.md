@@ -70,7 +70,9 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{SaadThaplawala}/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaadThaplawala&label=Profile%20views&color=ce9927&style=flat" alt="SaadThaplawala" />
+</p>
 
 
 <!-- Designed with passion & purpose -->
