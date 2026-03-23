@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hey there! I’m a Computer Science student driven by a mission to build real-world tech solutions — especially for fast-paced, chaotic cities like Karachi.  
 
-🔍 I’m actively refining my resume, polishing my GitHub and LinkedIn, and mapping out top tech companies in Karachi — all while hunting for a great internship that challenges and grows me.  
-
 🤝 I’m looking to collaborate on hands-on projects, especially in **project or product management** roles where I can learn, lead, and contribute meaningfully.
 
 🎯 As I prep for my final year at university, I’m focused on staying disciplined, sharpening my skills, and shaping my path as a future-ready computer scientist.
